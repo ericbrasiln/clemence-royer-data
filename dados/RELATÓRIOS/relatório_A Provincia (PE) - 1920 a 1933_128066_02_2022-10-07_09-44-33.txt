@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-10-07_09-44-33
+- Termo da busca: "clemence royer";
+ - Acervo: A Provincia (PE) - 1920 a 1933;
+- Total de ocorrências: 2;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=128066_02&Pesq="clemence%20royer"

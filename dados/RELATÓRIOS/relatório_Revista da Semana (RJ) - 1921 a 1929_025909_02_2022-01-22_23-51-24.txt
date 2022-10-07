@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-51-24
+- Termo da busca: "clemence royer";
+ - Acervo: Revista da Semana (RJ) - 1921 a 1929;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=025909_02&Pesq="clemence%20royer"

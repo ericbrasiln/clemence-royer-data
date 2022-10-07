@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-23_00-01-57
+- Termo da busca: "clemence royer";
+ - Acervo: Reformador (RJ) - 1883 a 1902;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=830127&Pesq="clemence%20royer"

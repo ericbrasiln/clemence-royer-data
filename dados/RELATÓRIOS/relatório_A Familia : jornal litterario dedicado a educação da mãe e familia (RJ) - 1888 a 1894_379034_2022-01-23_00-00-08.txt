@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-23_00-00-08
+- Termo da busca: "clemence royer";
+ - Acervo: A Familia : jornal litterario dedicado a educação da mãe e familia (RJ) - 1888 a 1894;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=379034&Pesq="clemence%20royer"

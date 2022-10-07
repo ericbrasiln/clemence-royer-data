@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-59-02
+- Termo da busca: "clemence royer";
+ - Acervo: O Apostolo : Periodico religioso  moral e doutrinario  consagrado aos interesses da religião e da sociedade (RJ) - 1866 a 1901;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=343951&Pesq="clemence%20royer"

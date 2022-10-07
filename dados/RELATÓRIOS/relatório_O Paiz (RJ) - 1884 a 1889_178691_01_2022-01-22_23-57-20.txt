@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-57-20
+- Termo da busca: "clemence royer";
+ - Acervo: O Paiz (RJ) - 1884 a 1889;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=178691_01&Pesq="clemence%20royer"

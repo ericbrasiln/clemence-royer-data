@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-56-37
+- Termo da busca: "clemence royer";
+ - Acervo: O Jornal (RJ) - 1930 a 1939;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=110523_03&Pesq="clemence%20royer"

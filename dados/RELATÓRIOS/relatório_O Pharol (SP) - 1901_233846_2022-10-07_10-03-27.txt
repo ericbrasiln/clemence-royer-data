@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-10-07_10-03-27
+- Termo da busca: "clemence royer";
+ - Acervo: O Pharol (SP) - 1901;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=233846&Pesq="clemence%20royer"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-51-02
+- Termo da busca: "clemence royer";
+ - Acervo: Jornal do Commercio (RJ) - 1910 a 1919;
+- Total de ocorrências: 2;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=364568_10&Pesq="clemence%20royer"

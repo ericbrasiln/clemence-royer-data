@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-56-48
+- Termo da busca: "clemence royer";
+ - Acervo: Tribuna da Imprensa (RJ) - 1949 a 1959;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=154083_01&Pesq="clemence%20royer"

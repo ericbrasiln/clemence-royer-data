@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-10-07_10-12-26
+- Termo da busca: "clemence royer";
+ - Acervo: O Jornal (MA) - 1916 a 1923;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=720593&Pesq="clemence%20royer"

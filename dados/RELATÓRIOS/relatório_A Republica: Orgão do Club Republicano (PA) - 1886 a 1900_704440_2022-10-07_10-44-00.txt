@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-10-07_10-44-00
+- Termo da busca: "clemence royer";
+ - Acervo: A Republica: Orgão do Club Republicano (PA) - 1886 a 1900;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=704440&Pesq="clemence%20royer"

@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-10-07_10-02-42
+- Termo da busca: "clemence royer";
+ - Acervo: Correio Paulistano (SP) - 1900 a 1919;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=090972_06&Pesq="clemence%20royer"

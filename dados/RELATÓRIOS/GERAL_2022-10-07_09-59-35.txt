@@ -1,0 +1,9 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-10-07_09-59-35;
+- Local da busca: SP;
+- Período da busca: Todos;
+- Periódico da busca: Todos;
+- Termo da busca: "clemence royer";
+- Lista de acervos com ocorrências (máx. de 100) e quantidade de ocorrências: ['"090972_10","4"', '"153931_00","2"', '"090972_04","1"', '"090972_06","1"', '"227900","1"', '"233846","1"'];
+- Total de acervos com ocorrências (máx. de 100): 6
+- Informações adicionais: {'Total de páginas analisadas': '1.912.845', 'Total de Acervos analisados': '514', 'Total de ocorrências encontradas': '10', 'Frequência de Ocorrências por Página': 191284.5}

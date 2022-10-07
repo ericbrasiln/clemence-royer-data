@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-58-12
+- Termo da busca: "clemence royer";
+ - Acervo: Fon Fon : Semanario Alegre  Politico  Critico e Espusiante (RJ) - 1907 a 1958;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=259063&Pesq="clemence%20royer"

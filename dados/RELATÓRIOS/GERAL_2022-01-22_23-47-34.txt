@@ -1,0 +1,9 @@
+=-=-=-=-=-Relatório geral da raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-47-34;
+- Local da busca: RJ;
+- Período da busca: Todos;
+- Periódico da busca: Todos;
+- Termo da busca: "clemence royer";
+- Lista de acervos com ocorrências (máx. de 100) e quantidade de ocorrências: ['"060917_03","4"', '"030015_05","2"', '"364568_10","2"', '"025909_02","1"', '"030015_01","1"', '"030015_02","1"', '"052558","1"', '"074594","1"', '"089842_01","1"', '"089842_04","1"', '"093092_02","1"', '"093718_01","1"', '"093718_02","1"', '"100439_04","1"', '"103730_02","1"', '"107670_02","1"', '"110523_03","1"', '"154083_01","1"', '"178691_01","1"', '"178691_03","1"', '"259063","1"', '"282383","1"', '"343951","1"', '"364568_08","1"', '"364568_09","1"', '"364568_11","1"', '"379034","1"', '"800023","1"', '"811505","1"', '"829706","1"', '"830127","1"', '"830380","1"', '"830437","1"'];
+- Total de acervos com ocorrências (máx. de 100): 33
+- Informações adicionais: {'Total de páginas analisadas': '12.138.990', 'Total de Acervos analisados': '2.543', 'Total de ocorrências encontradas': '38', 'Frequência de Ocorrências por Página': 319447.1052631579}

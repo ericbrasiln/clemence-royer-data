@@ -1,0 +1,6 @@
+=-=-=-=-=-Relatório de acervo da Raspagem da HDB-=-=-=-=-=
+- Data e hora da busca: 2022-01-22_23-52-56
+- Termo da busca: "clemence royer";
+ - Acervo: Boletim do Grande Oriente Unido e Supremo Conselho do Brazil : Jornal Offical da Maçonaria Brazileira (RJ) - 1873 a 1877;
+- Total de ocorrências: 1;
+- Link da lista de resultados: http://memoria.bn.br/docreader/docreader.aspx?bib=074594&Pesq="clemence%20royer"
